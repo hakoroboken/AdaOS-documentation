@@ -15,21 +15,15 @@ theme:
     - navigation.tabs
     - navigation.tabs.sticky
     - navigation.top
-  favicon: assets/images/gem.png
+  favicon: assets/images/logo2.png
   icon:
-    logo: fontawesome/regular/gem
+    logo: material/file-document
+
   language: ja
   palette:
-    - scheme: default
-      primary: white
-      toggle:
-        icon: material/weather-sunny
-        name: Switch to dark mode
     - scheme: slate
-      primary: grey
-      toggle:
-        icon: material/weather-night
-        name: Switch to light mode
+      primary: blue grey
+
 
 extra:
   font:
